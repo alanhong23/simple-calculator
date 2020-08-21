@@ -22,7 +22,7 @@ namespace first
                 Console.Write("Enter your second number: ");
                 double second_number = Convert.ToDouble(Console.ReadLine());
 
-                Console.Write("\n{0}{1}{2} = ", first_number, op, second_number);
+                Console.Write($"\n{first_number}{op}{second_number} = ");
 
             
                 switch (op)
@@ -59,7 +59,7 @@ namespace first
 
         static void Keep()
         {
-            Console.Write("\n\nEnter to close the window...");
+            Console.Write("\n\nPress Enter to close the window...");
             Console.ReadLine();
         }
     }

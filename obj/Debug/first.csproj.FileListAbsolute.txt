@@ -5,3 +5,10 @@ D:\coding\first\bin\Debug\first.exe
 D:\coding\first\bin\Debug\first.pdb
 D:\coding\first\obj\Debug\first.exe
 D:\coding\first\obj\Debug\first.pdb
+D:\coding\simple-calculator\bin\Debug\first.exe.config
+D:\coding\simple-calculator\bin\Debug\first.exe
+D:\coding\simple-calculator\bin\Debug\first.pdb
+D:\coding\simple-calculator\obj\Debug\first.csprojAssemblyReference.cache
+D:\coding\simple-calculator\obj\Debug\first.csproj.CoreCompileInputs.cache
+D:\coding\simple-calculator\obj\Debug\first.exe
+D:\coding\simple-calculator\obj\Debug\first.pdb
